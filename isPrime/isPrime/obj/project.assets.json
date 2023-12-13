@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Алексей\\Desktop\\isPrime\\isPrime\\isPrime.csproj",
+      "projectUniqueName": "C:\\Users\\Алексей\\Documents\\GitHub\\Task7-PI-\\isPrime\\isPrime\\isPrime.csproj",
       "projectName": "isPrime",
-      "projectPath": "C:\\Users\\Алексей\\Desktop\\isPrime\\isPrime\\isPrime.csproj",
+      "projectPath": "C:\\Users\\Алексей\\Documents\\GitHub\\Task7-PI-\\isPrime\\isPrime\\isPrime.csproj",
       "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Алексей\\Desktop\\isPrime\\isPrime\\obj\\",
+      "outputPath": "C:\\Users\\Алексей\\Documents\\GitHub\\Task7-PI-\\isPrime\\isPrime\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
