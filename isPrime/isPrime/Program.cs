@@ -1,5 +1,6 @@
 ﻿using System;
 
+//Шедеврокомментарий
 class Program
 {
     static void Main()
