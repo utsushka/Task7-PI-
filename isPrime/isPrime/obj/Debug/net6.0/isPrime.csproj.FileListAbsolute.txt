@@ -12,3 +12,17 @@ C:\Users\Алексей\Desktop\isPrime\isPrime\obj\Debug\net6.0\refint\isPrime.
 C:\Users\Алексей\Desktop\isPrime\isPrime\obj\Debug\net6.0\isPrime.pdb
 C:\Users\Алексей\Desktop\isPrime\isPrime\obj\Debug\net6.0\isPrime.genruntimeconfig.cache
 C:\Users\Алексей\Desktop\isPrime\isPrime\obj\Debug\net6.0\ref\isPrime.dll
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\bin\Debug\net6.0\isPrime.exe
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\bin\Debug\net6.0\isPrime.deps.json
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\bin\Debug\net6.0\isPrime.runtimeconfig.json
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\bin\Debug\net6.0\isPrime.dll
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\bin\Debug\net6.0\isPrime.pdb
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\isPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\isPrime.AssemblyInfoInputs.cache
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\isPrime.AssemblyInfo.cs
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\isPrime.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\isPrime.dll
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\refint\isPrime.dll
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\isPrime.pdb
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\isPrime.genruntimeconfig.cache
+C:\Users\Алексей\Documents\GitHub\Task7-PI-\isPrime\isPrime\obj\Debug\net6.0\ref\isPrime.dll
