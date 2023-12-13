@@ -1,5 +1,7 @@
 ﻿using System;
+//Обнова
 class Program
+
 {
     static void Main()
     {
