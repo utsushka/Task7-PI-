@@ -1,5 +1,6 @@
 using static Program;
 namespace isPrime
+    //Стопапупа
 {
     public class Tests
     {
